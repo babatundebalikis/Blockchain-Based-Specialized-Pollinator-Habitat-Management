@@ -5,3 +5,5 @@ P
  contracts/impact-assessment.clar,9/9/998860548e8bac75d5da3fa14360b52f601db1ac
 S
 #contracts/maintenance-protocol.clar,c/5/c5145bcbae236c2e669ac13a8a59c8e315ff9d0a
+P
+ contracts/site-registration.clar,c/2/c2ddcc3eeef950abe8781b6280676fe56d5184a5
